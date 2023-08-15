@@ -1,4 +1,4 @@
 # To Do Pist Python
 
 
-TO DO List Python puro
+TO DO List Python

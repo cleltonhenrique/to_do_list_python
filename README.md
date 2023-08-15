@@ -1,4 +1,4 @@
-# To Do list python
+# To Do Pist Python
 
 
-TO DO List python puro
+TO DO List Python puro
